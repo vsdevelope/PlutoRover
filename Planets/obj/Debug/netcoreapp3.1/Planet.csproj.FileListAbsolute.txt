@@ -1,0 +1,9 @@
+C:\Users\ganes\source\repos\PlutoRover\Planet\bin\Debug\netcoreapp3.1\Planet.deps.json
+C:\Users\ganes\source\repos\PlutoRover\Planet\bin\Debug\netcoreapp3.1\Planet.dll
+C:\Users\ganes\source\repos\PlutoRover\Planet\bin\Debug\netcoreapp3.1\Planet.pdb
+C:\Users\ganes\source\repos\PlutoRover\Planet\obj\Debug\netcoreapp3.1\Planet.csprojAssemblyReference.cache
+C:\Users\ganes\source\repos\PlutoRover\Planet\obj\Debug\netcoreapp3.1\Planet.AssemblyInfoInputs.cache
+C:\Users\ganes\source\repos\PlutoRover\Planet\obj\Debug\netcoreapp3.1\Planet.AssemblyInfo.cs
+C:\Users\ganes\source\repos\PlutoRover\Planet\obj\Debug\netcoreapp3.1\Planet.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\PlutoRover\Planet\obj\Debug\netcoreapp3.1\Planet.dll
+C:\Users\ganes\source\repos\PlutoRover\Planet\obj\Debug\netcoreapp3.1\Planet.pdb
